@@ -293,7 +293,7 @@ function's expected behavior.
 * **Behavior**
   * Using `wagesEarnedOnDate`, accumulate the value of all dates worked by the
     employee in the record used as context. Amount should be returned as a
-    number.
+    number. 
 
 ## Conclusion
 
